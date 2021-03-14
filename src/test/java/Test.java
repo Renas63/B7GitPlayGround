@@ -12,5 +12,6 @@ public class Test {
         System.out.println("New changes for stash");
 
         System.out.println("second change for stash");
+        System.out.println("Stash is updated");
     }
 }
