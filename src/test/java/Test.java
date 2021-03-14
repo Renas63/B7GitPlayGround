@@ -4,5 +4,6 @@ public class Test {
 
         System.out.println("second code");
         System.out.println("third code");
+        System.out.println("Muammer is the best teacher ever!");
     }
 }
