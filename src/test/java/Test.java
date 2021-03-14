@@ -10,5 +10,7 @@ public class Test {
 
 
         System.out.println("New changes for stash");
+
+        System.out.println("second change for stash");
     }
 }
