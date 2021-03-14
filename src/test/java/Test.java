@@ -3,5 +3,7 @@ public class Test {
         System.out.println("firts code");
 
         System.out.println("second code");
+               System.out.println("third code");
+
     }
 }
